@@ -18,6 +18,7 @@ fastapi-docker/
 │── Dockerfile # Docker build instructions 
 │── requirements.txt # Dependencies 
 │── README.md # Documentation
+│── .dockerignore # Files excluded from Docker build context
 
 ---
 ⚙️ Setup & Usage
